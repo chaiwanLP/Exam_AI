@@ -1,4 +1,12 @@
-pip install -r requirements.txt
+pip install -r requirements.txt #install requirements
+pip freeze > requirements.txt # Pack install to requirements
 
 
+pandas
+seaborn
+matplotlib
+scikit-learn
+numpy
 ipykernel
+TensorFlow
+Keras
